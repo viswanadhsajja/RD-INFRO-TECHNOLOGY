@@ -146,4 +146,4 @@ Arduino UNO:
 
 ## Demo Video
 LinkedIn Post Link:
-https://www.linkedin.com/posts/sajja-viswanadh-474188340_rdinfrotech-internship44-arduino-ugcPost-7464674081653567488-vOcO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFV0jJgBXXn9-3tvvmakUVTCRU164_59RFk
+https://www.linkedin.com/posts/sajja-viswanadh-474188340_rdinfrotech-internship44-arduino-ugcPost-7464685492551385088-3_1E/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFV0jJgBXXn9-3tvvmakUVTCRU164_59RFk
