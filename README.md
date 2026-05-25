@@ -145,10 +145,5 @@ Arduino UNO:
 ---
 
 ## Demo Video
-
-Add your LinkedIn or Google Drive demo link here.
-
-Example:
-
-```md
-[Project Demo Video](PASTE_YOUR_LINK_HERE)
+LinkedIn Post Link:
+https://www.linkedin.com/posts/sajja-viswanadh-474188340_rdinfrotech-internship44-arduino-ugcPost-7464674081653567488-vOcO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFV0jJgBXXn9-3tvvmakUVTCRU164_59RFk
